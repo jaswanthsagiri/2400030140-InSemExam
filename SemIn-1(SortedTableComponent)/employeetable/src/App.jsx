@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './index.css';
 
 const employeeData = [
   { name: 'Alice', department: 'Engineering', salary: 70000 },
