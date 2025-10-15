@@ -1,0 +1,18 @@
+.employee-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.employee-table th,
+.employee-table td {
+  border: 1px solid brown;
+  padding: 8px;
+  text-align: left;
+}
+
+
+
+.employee-table th {
+  cursor: pointer;
+  background-color: green;
+}
